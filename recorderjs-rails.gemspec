@@ -5,16 +5,15 @@ Gem::Specification.new do |s|
   s.name = "recorderjs-rails"
   s.version = Recorderjs::Rails::VERSION
   s.platform = Gem::Platform::RUBY
-  s.authors = ["SolarCS Rock Stars"]
-  s.homepage = "https://github.com/SolarCS/recorderjs-rails"
+  s.authors = ["Julien Defrance"]
+  s.homepage = "https://github.com/mattdiamond/Recorderjs"
 
   s.summary = "Use Recorderjs with Rails 4+"
-  s.description = "This gem provides Recorderjs driver for your Rails 4+ application."
+  s.description = "A plugin for recording/exporting the output of Web Audio API nodes"
 
   s.required_rubygems_version = ">= 1.3.6"
 
   s.add_dependency "railties", ">= 3.0", "< 5.0"
-  #s.add_dependency "thor", ">= 0.14", "< 2.0"
 
   s.files = `git ls-files`.split("\n")
   s.executables = `git ls-files -- bin/*`.split("\n").map { |f| File.basename(f) }
