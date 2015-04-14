@@ -12,9 +12,9 @@ Add recorderjs-rails to your `Gemfile`.
 
 `gem "recorderjs-rails"`
 
-Require Bootstrap Javascripts in app/assets/javascripts/application.js:
+Require Recorder.js Javascripts in app/assets/javascripts/application.js:
 
-//= require recorderjs-rails/recorder
+`//= require recorderjs-rails/recorder`
 
 
 ### Contributions
