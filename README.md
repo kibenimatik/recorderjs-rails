@@ -28,6 +28,7 @@ https://github.com/mattdiamond/Recorderjs
 ### Credits
 
 This gem started off SolarCS's work available at https://github.com/SolarCS/recorderjs-rails, for which no gem had been published on RubyGems.org
+
 I decided to take it over and provide people with an easy way to integrate with the latest/available code that mattdiamond (https://github.com/mattdiamond) is providing on his page (https://github.com/mattdiamond/Recorderjs)
 
 
