@@ -17,6 +17,11 @@ Require Recorder.js Javascripts in app/assets/javascripts/application.js:
 `//= require recorderjs-rails/recorder`
 
 
+### Documentation
+
+Further syntax/configuration documentation is available at https://github.com/mattdiamond/Recorderjs
+
+
 ### Contributions
 
 I am only maintaining the gem and this is project is fully open to contributions.
